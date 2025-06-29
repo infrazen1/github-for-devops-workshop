@@ -18,4 +18,3 @@ git switch branch_name -> switches to another branch {whose name is mentioned}
 to merge the branches--->
     git checkout base-branch
     git merge branch-name
-
