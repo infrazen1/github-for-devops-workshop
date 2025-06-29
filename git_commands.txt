@@ -7,3 +7,4 @@ git remote add <url>
 git remote -v
 git push origin master
 
+now i am going to pull the changes
