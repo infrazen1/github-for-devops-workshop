@@ -1,1 +1,3 @@
 we are now in dev branch
+
+i am doing some changes through cli to test merging of branches
