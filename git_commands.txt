@@ -1,0 +1,9 @@
+git init
+git status
+git add file_name
+git commit -m "meesage"
+git restore filename"
+git remote add <url>
+git remote -v
+git push origin master
+
